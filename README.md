@@ -10,6 +10,6 @@ coming soon ...
 
 # License & Copyright
 
-The materials herein are all (c) 2017 thecodingdelight.com
+The materials herein are all (c) 2017 Jay Lee
 
 MIT License
